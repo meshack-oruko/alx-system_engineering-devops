@@ -1,2 +1,2 @@
-#!/boin/bash
+#!/bin/bash
 whoami
